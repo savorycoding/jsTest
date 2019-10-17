@@ -4,11 +4,5 @@ var obj = {
   'header.label.greets': '',
   'header.button.remain': '延長',
   'header.button.logout': 'ログアウト',
-  'header.alert.logout': 'ログアウトしますか?',
-  'dashboard.header1': :{
-    'msg1':'hi',
-    'hello':{
-      'good'
-    }
-  }
+  'header.alert.logout': 'ログアウトしますか?'
 }

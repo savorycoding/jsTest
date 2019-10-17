@@ -150,11 +150,19 @@ var localization = {
   "regist.step3.guide1": "基本質問、状況対処、深層会話、カスタム質問の構成を確認できます。",
   "regist.step3.guide2": "カスタム質問の設定から必要な質問を追加することができます。",
   "regist.step3.guide3": "以前の選考で使用した質問設定を読み込んで使用できます。",
-  "abcde": {
-   "abd" : "Asa"   
+  "result" : {
+      "modal_email" : {
+          "label" : "email1",
+          "button" : "send1"
+      },
+      "modal_email_pretest" :{
+          "label" : "email2",
+          "button" : "send2"
+      }
   },
-    "신태림테스트" : {
-        "뎁스되냐" : "안됩니다",
-        "아마안될듯" : "ㅋㅋㅋ"
-    }
+    "modal" : {
+          "label" : "email3",
+          "button" : "send3"
+    },
+    "modal.label.button" : "send4"
 };

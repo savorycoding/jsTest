@@ -5,4 +5,4 @@
   'header.button.remain': '延長',
   'header.button.logout': 'ログアウト',
   'header.alert.logout': 'ログアウトしますか?'
-}
+};

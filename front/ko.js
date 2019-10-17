@@ -1,4 +1,4 @@
-var obj = {
+var localizations = {
   'header.label.home': 'ホーム',
   'header.label.exam_site': '受検者サイト',
   'header.label.greets': '',

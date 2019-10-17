@@ -157,11 +157,11 @@
       },
       "modal_email_pretest" :{
           "label" : "email2",
-          "button" : "send2"
+          "button" : "쾡쿙!"
       }
   },
     "modal" : {
-          "label" : "email3",
+          "label" : "에취!",
           "button" : "send3"
     },
     "modal.label.button" : "send4"

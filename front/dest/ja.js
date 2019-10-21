@@ -3,7 +3,7 @@
   "header.label.exam_site": "홍홍!",
   "header.label.greets": "",
   "header.button.remain": "퀭퀭!",
-  "header.button.logout": "ログアウト",
+  "header.button.logout": "변경되는가튕튕!",
   "header.alert.logout": "ログアウトしますか?",
   "dashboard.header1": "AI面接受検現況",
   "dashboard.th.exam_name": "選考名",

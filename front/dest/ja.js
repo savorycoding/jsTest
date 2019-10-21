@@ -5,7 +5,7 @@
       "header.label.greets": "",
       "header.button.remain": "퀭퀭!",
       "header.button.logout": "변경되는가튕튕!",
-      "header.alert.logout": "ログアウトしますか?",
+      "header.alert.logout": "잘 동작하는가요?",
       "dashboard.header1": "AI面接受検現況",
       "dashboard.th.exam_name": "選考名",
       "dashboard.th.status": "進行状況",

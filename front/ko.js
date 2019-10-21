@@ -166,3 +166,7 @@ var localization = {
     },
     "modal.label.button" : "send4"
 };
+
+define([], function(){
+  return localization;
+});

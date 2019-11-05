@@ -1,6 +1,6 @@
 ﻿define(function() {
   var langData ={
-    "header.label.home": "테스트합니다",
+    "header.label.home": "일본어임",
       "header.label.exam_site": "홍홍!",
       "header.label.greets": "",
       "header.button.remain": "퀭퀭!",

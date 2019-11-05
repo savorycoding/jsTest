@@ -1,6 +1,6 @@
 ﻿define(function() {
   var langData ={
-    "header.label.home": "헹헹!",
+    "header.label.home": "gg",
       "header.label.exam_site": "홍홍!",
       "header.label.greets": "",
       "header.button.remain": "퀭퀭!",

@@ -1,6 +1,6 @@
 ﻿define(function() {
   var langData ={
-    "header.label.home": "gg",
+    "header.label.home": "테스트합니다",
       "header.label.exam_site": "受検者サイト",
       "header.label.greets": "",
       "header.button.remain": "延長",
